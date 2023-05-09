@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import 'screens/provider/Train_Provider.dart';
-import 'screens/view/homeScreen.dart';
+import 'screens/view/TrainViewscreen.dart';
 
 void main() {
   runApp(
